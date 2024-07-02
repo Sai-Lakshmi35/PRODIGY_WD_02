@@ -41,11 +41,11 @@ CONTRIBUTING
 ------------
 We welcome contributions to the Stopwatch Web Application! To contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch: git checkout -b feature-branch-name
-Make your changes and commit them: git commit -m 'Add some feature'
-Push to the branch: git push origin feature-branch-name
-Open a pull request.
+1.Fork the repository.
+2.Create a new branch: git checkout -b feature-branch-name
+3.Make your changes and commit them: git commit -m 'Add some feature'
+4.Push to the branch: git push origin feature-branch-name
+5.Open a pull request.
 
 LICENSE
 -------
